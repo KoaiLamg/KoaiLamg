@@ -16,8 +16,8 @@ I'm Khoa/Bloom, a beginner game designer from VietNam born in 2008
   <li>Nothing here yet,gonna be many soon</li>
 </ul>
 <div>I currently use Godot to create my projects and Aseprite/Libresprite to draw my art, in the next 3 years i will working with more game engines and art apps</div>
-<div>To contact me, you can email me through **khoailg10@gmail.com** or my Facebook fanpage **Trang của Bloom**
-My game site: https://bloomcuakhoa.itch.io/</div>
+<div>To contact me, you can email me through **khoailg10@gmail.com** or my Facebook fanpage **Trang của Bloom**</div>
+<div>My game site: https://bloomcuakhoa.itch.io/</div>
 <hr>
 <ul>Fact abt me:
 <li>I have an ukulele (or two if count the broken one) </li>
